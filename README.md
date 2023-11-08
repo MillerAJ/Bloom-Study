@@ -8,3 +8,9 @@ I was asked to compute the Kendall's tau, the R^2 of the regression, the slope o
 I was then asked to restrict results to instances that showed a p-value of <.1 and split these instances based on positive and negative slopes.
 
 While further investigation is needed, we were able to identify many species of plants that showed a statistically significant relationship between the day of bloom and the increasing years.
+
+The following is an example for Genus = Acer, Species = saccharum, Site_Name = Home
+DOY stands for 'Day Of Year'
+As you can see, there appears to be a correlation between how early the plant is blooming and the passage of years. These are the instances we are looking for to see if there is a genuine statistical significance to this relationship.
+![image](https://github.com/MillerAJ/Bloom-Study/assets/9644656/2174cb19-0822-4f01-b193-13e331ba7213)
+

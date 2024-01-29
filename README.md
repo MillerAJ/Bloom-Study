@@ -11,5 +11,7 @@ TASK
 The following is an example for Genus = Acer, Species = saccharum, Site_Name = Home
 DOY stands for 'Day Of Year'
 As you can see, there appears to be a correlation between how early the plant is blooming and the passage of years. These are the instances we are interested in to see if there is a statistical significance to this relationship.
+
+
 ![image](https://github.com/MillerAJ/Bloom-Study/assets/9644656/2174cb19-0822-4f01-b193-13e331ba7213)
 

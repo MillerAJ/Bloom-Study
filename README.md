@@ -13,7 +13,7 @@ Aggregated analysis: https://colab.research.google.com/drive/1bfvz8D7NZeWr19M7X3
 TASK
 1) Perform a linear regression on the day of first bloom vs. the year of the bloom. 
 2) Compute the Kendall's tau, the R^2 of the regression, the slope of the regression line, and the p-values for the observed regressions. 
-3) Restrict results to instances that showed a p-value of <.1 and split these instances based on positive and negative slopes.
+3) Restrict results to instances that showed a p-value of <.05 and split these instances based on positive and negative slopes.
 
 The following is an example for Genus = Crocus, Species = spp., Site_Name = Home, State = ME
 

@@ -8,6 +8,7 @@ Aggregated stats: https://colab.research.google.com/drive/1bfvz8D7NZeWr19M7X30qb
 
 Aggregated analysis: https://colab.research.google.com/drive/1bfvz8D7NZeWr19M7X30qbGETI-NvGBB2#scrollTo=aZHW_Y5lAFGs
 
+
 TASK
 1) Perform a linear regression on the day of first bloom vs. the year of the bloom. 
 2) Compute the Kendall's tau, the R^2 of the regression, the slope of the regression line, and the p-values for the observed regressions. 

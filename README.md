@@ -16,6 +16,7 @@ TASK
 3) Restrict results to instances that showed a p-value of <.1 and split these instances based on positive and negative slopes.
 
 The following is an example for Genus = Crocus, Species = spp., Site_Name = Home, State = ME
+
 DOY stands for 'Day Of Year'
 As you can see, there appears to be some correlation between how early the plant is blooming and the passage of years. These are the instances we are interested in to see if there is a statistical significance to this relationship.
 
